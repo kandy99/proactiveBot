@@ -1,0 +1,3019 @@
+{
+  "luis_schema_version": "7.0.0",
+  "intents": [
+    {
+      "name": "ByeBye",
+      "features": []
+    },
+    {
+      "name": "ChangeAccentBot",
+      "features": []
+    },
+    {
+      "name": "ChangeBotLanguage",
+      "features": []
+    },
+    {
+      "name": "CreateTimesheetWithDate",
+      "features": []
+    },
+    {
+      "name": "DeleteTimesheetWithDate",
+      "features": []
+    },
+    {
+      "name": "FillHourInTimesheet",
+      "features": []
+    },
+    {
+      "name": "GetAssignedActivity",
+      "features": []
+    },
+    {
+      "name": "GetBotName",
+      "features": []
+    },
+    {
+      "name": "GetCriticalProject",
+      "features": []
+    },
+    {
+      "name": "GetCurrentVersionOfApp",
+      "features": []
+    },
+    {
+      "name": "GetDelayProjectList",
+      "features": []
+    },
+    {
+      "name": "GetFavouriteProject",
+      "features": []
+    },
+    {
+      "name": "GetHomePageUrl",
+      "features": []
+    },
+    {
+      "name": "GetLastProjectAccessUrl",
+      "features": []
+    },
+    {
+      "name": "GetListOfTimesheet",
+      "features": []
+    },
+    {
+      "name": "GetRecentProjectOfUser",
+      "features": []
+    },
+    {
+      "name": "GetRiskProjectOfUser",
+      "features": []
+    },
+    {
+      "name": "GetTimesheetList",
+      "features": []
+    },
+    {
+      "name": "GetUserHelp",
+      "features": []
+    },
+    {
+      "name": "GetUserNotification",
+      "features": []
+    },
+    {
+      "name": "GetUserPriorityProject",
+      "features": []
+    },
+    {
+      "name": "GreetingIntent",
+      "features": []
+    },
+    {
+      "name": "GreetingResponse",
+      "features": []
+    },
+    {
+      "name": "HeLpBotUser",
+      "features": []
+    },
+    {
+      "name": "HideContextMenuItem",
+      "features": []
+    },
+    {
+      "name": "None",
+      "features": []
+    },
+    {
+      "name": "PreferUserLanguageChange",
+      "features": []
+    },
+    {
+      "name": "ProjectCriticalWithKeys",
+      "features": []
+    },
+    {
+      "name": "QuestionGeneralResponse",
+      "features": []
+    },
+    {
+      "name": "ReleaseTeamSpaceObject",
+      "features": []
+    },
+    {
+      "name": "ReleaseTimesheetWithDate",
+      "features": []
+    },
+    {
+      "name": "SetLandingPage",
+      "features": []
+    },
+    {
+      "name": "ShowContextMenuItem",
+      "features": []
+    },
+    {
+      "name": "ShowProjectListToUser",
+      "features": []
+    },
+    {
+      "name": "ShowProjectRequestListToUser",
+      "features": []
+    },
+    {
+      "name": "ThemeChange",
+      "features": []
+    },
+    {
+      "name": "WishesoftheDay",
+      "features": []
+    },
+    {
+      "name": "WrongNameOFBot",
+      "features": []
+    }
+  ],
+  "entities": [
+    {
+      "name": "Accent",
+      "children": [],
+      "roles": [],
+      "features": []
+    },
+    {
+      "name": "badname",
+      "children": [],
+      "roles": [],
+      "features": []
+    },
+    {
+      "name": "date",
+      "children": [],
+      "roles": [],
+      "features": []
+    },
+    {
+      "name": "favourite",
+      "children": [],
+      "roles": [],
+      "features": []
+    },
+    {
+      "name": "healthKey",
+      "children": [],
+      "roles": [],
+      "features": []
+    },
+    {
+      "name": "healthParam",
+      "children": [],
+      "roles": [],
+      "features": []
+    },
+    {
+      "name": "hourno",
+      "children": [],
+      "roles": [],
+      "features": []
+    },
+    {
+      "name": "landparam",
+      "children": [],
+      "roles": [],
+      "features": []
+    },
+    {
+      "name": "language",
+      "children": [],
+      "roles": [],
+      "features": []
+    },
+    {
+      "name": "priorityval",
+      "children": [],
+      "roles": [],
+      "features": []
+    },
+    {
+      "name": "releaseTeamSpaceObject",
+      "children": [],
+      "roles": [],
+      "features": []
+    },
+    {
+      "name": "showvalue",
+      "children": [],
+      "roles": [],
+      "features": []
+    },
+    {
+      "name": "theme",
+      "children": [],
+      "roles": [],
+      "features": []
+    },
+    {
+      "name": "voicenamed",
+      "children": [],
+      "roles": [],
+      "features": []
+    }
+  ],
+  "hierarchicals": [],
+  "composites": [],
+  "closedLists": [],
+  "prebuiltEntities": [
+    {
+      "name": "datetimeV2",
+      "roles": []
+    }
+  ],
+  "utterances": [
+    {
+      "text": "\"please create a timesheet of 10 july 2019\"",
+      "intent": "CreateTimesheetWithDate",
+      "entities": []
+    },
+    {
+      "text": "\"please create a timesheet of 12 july 2019\"",
+      "intent": "CreateTimesheetWithDate",
+      "entities": []
+    },
+    {
+      "text": "2019",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "2020",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "activities",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "are you well?",
+      "intent": "QuestionGeneralResponse",
+      "entities": []
+    },
+    {
+      "text": "bye",
+      "intent": "ByeBye",
+      "entities": []
+    },
+    {
+      "text": "can you create a timesheet for 5 of july 2017",
+      "intent": "CreateTimesheetWithDate",
+      "entities": []
+    },
+    {
+      "text": "can you help me ?",
+      "intent": "GetUserHelp",
+      "entities": []
+    },
+    {
+      "text": "can you please repeat?",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "can you please tell me the date",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "can you show me the last timesheet",
+      "intent": "GetListOfTimesheet",
+      "entities": []
+    },
+    {
+      "text": "can you show timesheet",
+      "intent": "GetListOfTimesheet",
+      "entities": []
+    },
+    {
+      "text": "can you take me to the last project access",
+      "intent": "GetLastProjectAccessUrl",
+      "entities": []
+    },
+    {
+      "text": "can you tell me about yourself ?",
+      "intent": "GetBotName",
+      "entities": []
+    },
+    {
+      "text": "change my theme to default",
+      "intent": "ThemeChange",
+      "entities": [
+        {
+          "entity": "theme",
+          "startPos": 19,
+          "endPos": 25,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "change my theme to grey",
+      "intent": "ThemeChange",
+      "entities": [
+        {
+          "entity": "theme",
+          "startPos": 19,
+          "endPos": 22,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "change your accent to american",
+      "intent": "ChangeAccentBot",
+      "entities": [
+        {
+          "entity": "Accent",
+          "startPos": 22,
+          "endPos": 29,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "change your accent to european",
+      "intent": "ChangeAccentBot",
+      "entities": [
+        {
+          "entity": "Accent",
+          "startPos": 22,
+          "endPos": 29,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "change your accent to indian",
+      "intent": "ChangeAccentBot",
+      "entities": [
+        {
+          "entity": "Accent",
+          "startPos": 22,
+          "endPos": 27,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "change your voice to female",
+      "intent": "ChangeBotLanguage",
+      "entities": [
+        {
+          "entity": "voicenamed",
+          "startPos": 21,
+          "endPos": 26,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "change your voice to girl",
+      "intent": "ChangeBotLanguage",
+      "entities": [
+        {
+          "entity": "voicenamed",
+          "startPos": 21,
+          "endPos": 24,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "change your voice to guy",
+      "intent": "ChangeBotLanguage",
+      "entities": [
+        {
+          "entity": "voicenamed",
+          "startPos": 21,
+          "endPos": 23,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "change your voice to mail",
+      "intent": "ChangeBotLanguage",
+      "entities": []
+    },
+    {
+      "text": "change your voice to male",
+      "intent": "ChangeBotLanguage",
+      "entities": [
+        {
+          "entity": "voicenamed",
+          "startPos": 21,
+          "endPos": 24,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "ciao",
+      "intent": "ByeBye",
+      "entities": []
+    },
+    {
+      "text": "crate timesheet of this week",
+      "intent": "CreateTimesheetWithDate",
+      "entities": []
+    },
+    {
+      "text": "create a tensor",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "create a time sheet for 2/09/2019",
+      "intent": "CreateTimesheetWithDate",
+      "entities": []
+    },
+    {
+      "text": "create a time sheet for 2/august/2019",
+      "intent": "CreateTimesheetWithDate",
+      "entities": []
+    },
+    {
+      "text": "create a timer for next week",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "create a timesheet for 02-09-2019",
+      "intent": "CreateTimesheetWithDate",
+      "entities": []
+    },
+    {
+      "text": "create a timesheet of 14 nov 2019",
+      "intent": "CreateTimesheetWithDate",
+      "entities": []
+    },
+    {
+      "text": "create a timesheet of 2/2/16",
+      "intent": "CreateTimesheetWithDate",
+      "entities": []
+    },
+    {
+      "text": "create a timesheet of this week",
+      "intent": "CreateTimesheetWithDate",
+      "entities": []
+    },
+    {
+      "text": "create next week",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "create previous month",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "create previous week",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "create timesheet of previous week",
+      "intent": "CreateTimesheetWithDate",
+      "entities": []
+    },
+    {
+      "text": "create timesheet of this month",
+      "intent": "CreateTimesheetWithDate",
+      "entities": []
+    },
+    {
+      "text": "creating a timesheet of 2nd july 2020",
+      "intent": "CreateTimesheetWithDate",
+      "entities": []
+    },
+    {
+      "text": "critical project",
+      "intent": "GetCriticalProject",
+      "entities": []
+    },
+    {
+      "text": "critical project at watch list",
+      "intent": "GetCriticalProject",
+      "entities": [
+        {
+          "entity": "favourite",
+          "startPos": 20,
+          "endPos": 24,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "critical project at watched list",
+      "intent": "GetCriticalProject",
+      "entities": [
+        {
+          "entity": "favourite",
+          "startPos": 20,
+          "endPos": 26,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "current new version of project object",
+      "intent": "GetCurrentVersionOfApp",
+      "entities": []
+    },
+    {
+      "text": "current version of",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "current version of rio\\",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "delete empty for this month",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "delete empty next month",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "delete empty this month\\",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "delete timesheet for 2nd february 2020",
+      "intent": "DeleteTimesheetWithDate",
+      "entities": []
+    },
+    {
+      "text": "delete timesheet of 10 december 2019",
+      "intent": "DeleteTimesheetWithDate",
+      "entities": []
+    },
+    {
+      "text": "d'elite timesheet for second week of august.",
+      "intent": "DeleteTimesheetWithDate",
+      "entities": []
+    },
+    {
+      "text": "free timesheet",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "get loss",
+      "intent": "ByeBye",
+      "entities": []
+    },
+    {
+      "text": "get loss\\",
+      "intent": "ByeBye",
+      "entities": []
+    },
+    {
+      "text": "get lost",
+      "intent": "ByeBye",
+      "entities": []
+    },
+    {
+      "text": "get me list of my timesheet",
+      "intent": "GetListOfTimesheet",
+      "entities": []
+    },
+    {
+      "text": "get the fuck out of here",
+      "intent": "ByeBye",
+      "entities": []
+    },
+    {
+      "text": "gm",
+      "intent": "WishesoftheDay",
+      "entities": []
+    },
+    {
+      "text": "gn",
+      "intent": "WishesoftheDay",
+      "entities": []
+    },
+    {
+      "text": "go to hell\\",
+      "intent": "ByeBye",
+      "entities": []
+    },
+    {
+      "text": "good afternoon",
+      "intent": "WishesoftheDay",
+      "entities": []
+    },
+    {
+      "text": "good evening",
+      "intent": "WishesoftheDay",
+      "entities": []
+    },
+    {
+      "text": "good morning",
+      "intent": "WishesoftheDay",
+      "entities": []
+    },
+    {
+      "text": "good night",
+      "intent": "WishesoftheDay",
+      "entities": []
+    },
+    {
+      "text": "goodbye",
+      "intent": "ByeBye",
+      "entities": []
+    },
+    {
+      "text": "hello",
+      "intent": "GreetingIntent",
+      "entities": []
+    },
+    {
+      "text": "hello alexa",
+      "intent": "WrongNameOFBot",
+      "entities": [
+        {
+          "entity": "badname",
+          "startPos": 6,
+          "endPos": 10,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "hello boris",
+      "intent": "WrongNameOFBot",
+      "entities": [
+        {
+          "entity": "badname",
+          "startPos": 6,
+          "endPos": 10,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "hello butcher",
+      "intent": "WrongNameOFBot",
+      "entities": [
+        {
+          "entity": "badname",
+          "startPos": 6,
+          "endPos": 12,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "hello dark",
+      "intent": "WrongNameOFBot",
+      "entities": [
+        {
+          "entity": "badname",
+          "startPos": 6,
+          "endPos": 9,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "hello deadpool",
+      "intent": "WrongNameOFBot",
+      "entities": [
+        {
+          "entity": "badname",
+          "startPos": 6,
+          "endPos": 13,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "hello dev",
+      "intent": "WrongNameOFBot",
+      "entities": [
+        {
+          "entity": "badname",
+          "startPos": 6,
+          "endPos": 8,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "hello dracula",
+      "intent": "WrongNameOFBot",
+      "entities": [
+        {
+          "entity": "badname",
+          "startPos": 6,
+          "endPos": 12,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "hello flora",
+      "intent": "WrongNameOFBot",
+      "entities": [
+        {
+          "entity": "badname",
+          "startPos": 6,
+          "endPos": 10,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "hello guttenberg",
+      "intent": "WrongNameOFBot",
+      "entities": [
+        {
+          "entity": "badname",
+          "startPos": 6,
+          "endPos": 15,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "hello jahangir",
+      "intent": "WrongNameOFBot",
+      "entities": [
+        {
+          "entity": "badname",
+          "startPos": 6,
+          "endPos": 13,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "hello jyoti",
+      "intent": "WrongNameOFBot",
+      "entities": [
+        {
+          "entity": "badname",
+          "startPos": 6,
+          "endPos": 10,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "hello paru",
+      "intent": "WrongNameOFBot",
+      "entities": [
+        {
+          "entity": "badname",
+          "startPos": 6,
+          "endPos": 9,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "hello porous",
+      "intent": "GreetingIntent",
+      "entities": []
+    },
+    {
+      "text": "hello porus",
+      "intent": "GreetingIntent",
+      "entities": []
+    },
+    {
+      "text": "help me",
+      "intent": "GetUserHelp",
+      "entities": []
+    },
+    {
+      "text": "help me ?",
+      "intent": "GetUserHelp",
+      "entities": []
+    },
+    {
+      "text": "help me please ?",
+      "intent": "GetUserHelp",
+      "entities": []
+    },
+    {
+      "text": "hey",
+      "intent": "GreetingIntent",
+      "entities": []
+    },
+    {
+      "text": "hey bub",
+      "intent": "WrongNameOFBot",
+      "entities": [
+        {
+          "entity": "badname",
+          "startPos": 4,
+          "endPos": 6,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "hey dub",
+      "intent": "WrongNameOFBot",
+      "entities": []
+    },
+    {
+      "text": "hey jack",
+      "intent": "WrongNameOFBot",
+      "entities": [
+        {
+          "entity": "badname",
+          "startPos": 4,
+          "endPos": 7,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "hey leo",
+      "intent": "WrongNameOFBot",
+      "entities": [
+        {
+          "entity": "badname",
+          "startPos": 4,
+          "endPos": 6,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "hey porus",
+      "intent": "GreetingIntent",
+      "entities": []
+    },
+    {
+      "text": "hey romeo",
+      "intent": "WrongNameOFBot",
+      "entities": [
+        {
+          "entity": "badname",
+          "startPos": 4,
+          "endPos": 8,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "hey seneca",
+      "intent": "WrongNameOFBot",
+      "entities": [
+        {
+          "entity": "badname",
+          "startPos": 4,
+          "endPos": 9,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "hey supernan",
+      "intent": "WrongNameOFBot",
+      "entities": []
+    },
+    {
+      "text": "hi",
+      "intent": "GreetingIntent",
+      "entities": []
+    },
+    {
+      "text": "hi porous",
+      "intent": "GreetingIntent",
+      "entities": []
+    },
+    {
+      "text": "hi porus",
+      "intent": "GreetingIntent",
+      "entities": []
+    },
+    {
+      "text": "hi.",
+      "intent": "GreetingIntent",
+      "entities": []
+    },
+    {
+      "text": "how are things?",
+      "intent": "QuestionGeneralResponse",
+      "entities": []
+    },
+    {
+      "text": "how are you doing?",
+      "intent": "QuestionGeneralResponse",
+      "entities": []
+    },
+    {
+      "text": "how are you?",
+      "intent": "QuestionGeneralResponse",
+      "entities": []
+    },
+    {
+      "text": "how is you feeling",
+      "intent": "QuestionGeneralResponse",
+      "entities": []
+    },
+    {
+      "text": "how you do ?",
+      "intent": "QuestionGeneralResponse",
+      "entities": []
+    },
+    {
+      "text": "how you feeling?",
+      "intent": "QuestionGeneralResponse",
+      "entities": []
+    },
+    {
+      "text": "how’s everything?",
+      "intent": "QuestionGeneralResponse",
+      "entities": []
+    },
+    {
+      "text": "how’s it going?",
+      "intent": "QuestionGeneralResponse",
+      "entities": []
+    },
+    {
+      "text": "ht porous",
+      "intent": "GreetingIntent",
+      "entities": []
+    },
+    {
+      "text": "i am very well",
+      "intent": "GreetingResponse",
+      "entities": []
+    },
+    {
+      "text": "i want female voice",
+      "intent": "ChangeBotLanguage",
+      "entities": [
+        {
+          "entity": "voicenamed",
+          "startPos": 7,
+          "endPos": 12,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "i want male voice",
+      "intent": "ChangeBotLanguage",
+      "entities": [
+        {
+          "entity": "voicenamed",
+          "startPos": 7,
+          "endPos": 10,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "it is going fine",
+      "intent": "GreetingResponse",
+      "entities": []
+    },
+    {
+      "text": "load my notifcation on the screen",
+      "intent": "GetUserNotification",
+      "entities": []
+    },
+    {
+      "text": "log off",
+      "intent": "ByeBye",
+      "entities": []
+    },
+    {
+      "text": "ok, show me the team space module.",
+      "intent": "ShowContextMenuItem",
+      "entities": []
+    },
+    {
+      "text": "ok.",
+      "intent": "GreetingResponse",
+      "entities": []
+    },
+    {
+      "text": "please change my theme to default",
+      "intent": "ThemeChange",
+      "entities": [
+        {
+          "entity": "theme",
+          "startPos": 26,
+          "endPos": 32,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "please change my theme to grey",
+      "intent": "ThemeChange",
+      "entities": [
+        {
+          "entity": "theme",
+          "startPos": 26,
+          "endPos": 29,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "please change the language to french",
+      "intent": "PreferUserLanguageChange",
+      "entities": [
+        {
+          "entity": "language",
+          "startPos": 30,
+          "endPos": 35,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "please change the language to german",
+      "intent": "PreferUserLanguageChange",
+      "entities": [
+        {
+          "entity": "language",
+          "startPos": 30,
+          "endPos": 35,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "please change the language to italian",
+      "intent": "PreferUserLanguageChange",
+      "entities": [
+        {
+          "entity": "language",
+          "startPos": 30,
+          "endPos": 36,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "please change the language to portugese",
+      "intent": "PreferUserLanguageChange",
+      "entities": [
+        {
+          "entity": "language",
+          "startPos": 30,
+          "endPos": 38,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "please change your accent to europe",
+      "intent": "ChangeAccentBot",
+      "entities": [
+        {
+          "entity": "Accent",
+          "startPos": 29,
+          "endPos": 34,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "please change your accent to india",
+      "intent": "ChangeAccentBot",
+      "entities": [
+        {
+          "entity": "Accent",
+          "startPos": 29,
+          "endPos": 33,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "please change your accent to united state",
+      "intent": "ChangeAccentBot",
+      "entities": [
+        {
+          "entity": "Accent",
+          "startPos": 29,
+          "endPos": 40,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "please change your accent to us",
+      "intent": "ChangeAccentBot",
+      "entities": [
+        {
+          "entity": "Accent",
+          "startPos": 29,
+          "endPos": 30,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "please create a time sheet for 10 december 2019",
+      "intent": "CreateTimesheetWithDate",
+      "entities": []
+    },
+    {
+      "text": "please create a timesheet for 02-03-2020",
+      "intent": "CreateTimesheetWithDate",
+      "entities": []
+    },
+    {
+      "text": "please create a timesheet for 12/12/2019",
+      "intent": "CreateTimesheetWithDate",
+      "entities": []
+    },
+    {
+      "text": "please create a timesheet for 1st october 2019",
+      "intent": "CreateTimesheetWithDate",
+      "entities": []
+    },
+    {
+      "text": "please create a timesheet for 2nd october",
+      "intent": "CreateTimesheetWithDate",
+      "entities": []
+    },
+    {
+      "text": "please create a timesheet for this week",
+      "intent": "CreateTimesheetWithDate",
+      "entities": []
+    },
+    {
+      "text": "please create a timesheet for this weeks",
+      "intent": "CreateTimesheetWithDate",
+      "entities": []
+    },
+    {
+      "text": "please create a timesheet of 12 august 2019\\",
+      "intent": "CreateTimesheetWithDate",
+      "entities": []
+    },
+    {
+      "text": "please create a timesheet of this week",
+      "intent": "CreateTimesheetWithDate",
+      "entities": []
+    },
+    {
+      "text": "please create timeseheet for 2nd february 2020",
+      "intent": "CreateTimesheetWithDate",
+      "entities": []
+    },
+    {
+      "text": "please create timseheet of previous week",
+      "intent": "CreateTimesheetWithDate",
+      "entities": []
+    },
+    {
+      "text": "please delete timesheet of 10 january 2020",
+      "intent": "DeleteTimesheetWithDate",
+      "entities": []
+    },
+    {
+      "text": "please delete timesheet of 12 feb 2020",
+      "intent": "DeleteTimesheetWithDate",
+      "entities": []
+    },
+    {
+      "text": "please delete timesheet of 12 nov 2016",
+      "intent": "DeleteTimesheetWithDate",
+      "entities": []
+    },
+    {
+      "text": "please delete timesheet of dan. january 2020.",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "please delete timesheet of this month",
+      "intent": "DeleteTimesheetWithDate",
+      "entities": []
+    },
+    {
+      "text": "please delete timesheet of this week",
+      "intent": "DeleteTimesheetWithDate",
+      "entities": []
+    },
+    {
+      "text": "please fill 10 hours on today timesheet",
+      "intent": "FillHourInTimesheet",
+      "entities": []
+    },
+    {
+      "text": "please fill 12 hour on today timesheet",
+      "intent": "FillHourInTimesheet",
+      "entities": []
+    },
+    {
+      "text": "please fill 15 hour on today timesheet",
+      "intent": "FillHourInTimesheet",
+      "entities": []
+    },
+    {
+      "text": "please fill hour in timesheet",
+      "intent": "FillHourInTimesheet",
+      "entities": []
+    },
+    {
+      "text": "please fill hours in timesheet",
+      "intent": "FillHourInTimesheet",
+      "entities": []
+    },
+    {
+      "text": "please fill tiemsheeet of 19 january 2020",
+      "intent": "FillHourInTimesheet",
+      "entities": []
+    },
+    {
+      "text": "please fill tiemsheet of today",
+      "intent": "FillHourInTimesheet",
+      "entities": []
+    },
+    {
+      "text": "please fill timesheet",
+      "intent": "FillHourInTimesheet",
+      "entities": []
+    },
+    {
+      "text": "please fill timesheet of 17 august 2020",
+      "intent": "FillHourInTimesheet",
+      "entities": []
+    },
+    {
+      "text": "please get me the list of timesheet",
+      "intent": "GetTimesheetList",
+      "entities": []
+    },
+    {
+      "text": "please get the timesheet",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "please help me in english",
+      "intent": "HeLpBotUser",
+      "entities": [
+        {
+          "entity": "language",
+          "startPos": 18,
+          "endPos": 24,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "please help me in french",
+      "intent": "HeLpBotUser",
+      "entities": [
+        {
+          "entity": "language",
+          "startPos": 18,
+          "endPos": 23,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "please help me in german",
+      "intent": "HeLpBotUser",
+      "entities": [
+        {
+          "entity": "language",
+          "startPos": 18,
+          "endPos": 23,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "please help me in italian",
+      "intent": "HeLpBotUser",
+      "entities": [
+        {
+          "entity": "language",
+          "startPos": 18,
+          "endPos": 24,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "please help me in spanish",
+      "intent": "HeLpBotUser",
+      "entities": [
+        {
+          "entity": "language",
+          "startPos": 18,
+          "endPos": 24,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "please help?",
+      "intent": "GetUserHelp",
+      "entities": []
+    },
+    {
+      "text": "please hide dashboard from the context menu",
+      "intent": "HideContextMenuItem",
+      "entities": [
+        {
+          "entity": "showvalue",
+          "startPos": 12,
+          "endPos": 20,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "please hide home page from the context menu",
+      "intent": "HideContextMenuItem",
+      "entities": [
+        {
+          "entity": "showvalue",
+          "startPos": 12,
+          "endPos": 20,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "please hide my current object from the context menu.",
+      "intent": "HideContextMenuItem",
+      "entities": [
+        {
+          "entity": "showvalue",
+          "startPos": 23,
+          "endPos": 28,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "please hide program from the context menu",
+      "intent": "HideContextMenuItem",
+      "entities": [
+        {
+          "entity": "showvalue",
+          "startPos": 12,
+          "endPos": 18,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "please hide project list from the context menu",
+      "intent": "HideContextMenuItem",
+      "entities": [
+        {
+          "entity": "showvalue",
+          "startPos": 12,
+          "endPos": 23,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "please hide project requests from the context menu",
+      "intent": "HideContextMenuItem",
+      "entities": [
+        {
+          "entity": "showvalue",
+          "startPos": 12,
+          "endPos": 27,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "please hide reporting from the context menu",
+      "intent": "HideContextMenuItem",
+      "entities": [
+        {
+          "entity": "showvalue",
+          "startPos": 12,
+          "endPos": 20,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "please hide reports from the context menu",
+      "intent": "HideContextMenuItem",
+      "entities": [
+        {
+          "entity": "showvalue",
+          "startPos": 12,
+          "endPos": 18,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "please hide strategies from the context menu",
+      "intent": "HideContextMenuItem",
+      "entities": [
+        {
+          "entity": "showvalue",
+          "startPos": 12,
+          "endPos": 21,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "please hide the demand from the context menu",
+      "intent": "HideContextMenuItem",
+      "entities": [
+        {
+          "entity": "showvalue",
+          "startPos": 16,
+          "endPos": 21,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "please hide the strategy from the context menu",
+      "intent": "HideContextMenuItem",
+      "entities": [
+        {
+          "entity": "showvalue",
+          "startPos": 16,
+          "endPos": 23,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "please hide time sheet from the context menu",
+      "intent": "HideContextMenuItem",
+      "entities": [
+        {
+          "entity": "showvalue",
+          "startPos": 12,
+          "endPos": 21,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "please hide time tracking from the context menu.",
+      "intent": "HideContextMenuItem",
+      "entities": [
+        {
+          "entity": "showvalue",
+          "startPos": 12,
+          "endPos": 24,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "please hide tracking from the context menu",
+      "intent": "HideContextMenuItem",
+      "entities": [
+        {
+          "entity": "showvalue",
+          "startPos": 12,
+          "endPos": 19,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "please releae timesheet of today",
+      "intent": "ReleaseTimesheetWithDate",
+      "entities": []
+    },
+    {
+      "text": "please release timesheet of 17 jan 2019",
+      "intent": "ReleaseTimesheetWithDate",
+      "entities": []
+    },
+    {
+      "text": "please release timesheet of 17 january 2019",
+      "intent": "ReleaseTimesheetWithDate",
+      "entities": []
+    },
+    {
+      "text": "please release timesheet of 24 january 2019",
+      "intent": "ReleaseTimesheetWithDate",
+      "entities": []
+    },
+    {
+      "text": "please release timesheet of 4th april 2019",
+      "intent": "ReleaseTimesheetWithDate",
+      "entities": []
+    },
+    {
+      "text": "please release timesheet of previous month",
+      "intent": "ReleaseTimesheetWithDate",
+      "entities": []
+    },
+    {
+      "text": "please release timesheet of this month",
+      "intent": "ReleaseTimesheetWithDate",
+      "entities": []
+    },
+    {
+      "text": "please release timesheet of this week",
+      "intent": "ReleaseTimesheetWithDate",
+      "entities": []
+    },
+    {
+      "text": "please set my landing page to home",
+      "intent": "SetLandingPage",
+      "entities": [
+        {
+          "entity": "landparam",
+          "startPos": 30,
+          "endPos": 33,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "please set my landing page to object",
+      "intent": "SetLandingPage",
+      "entities": [
+        {
+          "entity": "landparam",
+          "startPos": 30,
+          "endPos": 35,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "please set my landing page to portforlios",
+      "intent": "SetLandingPage",
+      "entities": [
+        {
+          "entity": "landparam",
+          "startPos": 30,
+          "endPos": 40,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "please set my landing page to projectfolio",
+      "intent": "SetLandingPage",
+      "entities": [
+        {
+          "entity": "landparam",
+          "startPos": 30,
+          "endPos": 41,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "please set my landing page to reports",
+      "intent": "SetLandingPage",
+      "entities": [
+        {
+          "entity": "landparam",
+          "startPos": 30,
+          "endPos": 36,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "please set my landing page to scheduler",
+      "intent": "SetLandingPage",
+      "entities": [
+        {
+          "entity": "landparam",
+          "startPos": 30,
+          "endPos": 38,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "please show dashboard in the contextmenu",
+      "intent": "ShowContextMenuItem",
+      "entities": [
+        {
+          "entity": "showvalue",
+          "startPos": 12,
+          "endPos": 20,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "please show explorer in the context menu",
+      "intent": "ShowContextMenuItem",
+      "entities": [
+        {
+          "entity": "showvalue",
+          "startPos": 12,
+          "endPos": 19,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "please show home page in the context menu",
+      "intent": "ShowContextMenuItem",
+      "entities": [
+        {
+          "entity": "showvalue",
+          "startPos": 17,
+          "endPos": 20,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "please show m,e the timesheet",
+      "intent": "GetTimesheetList",
+      "entities": []
+    },
+    {
+      "text": "please show me",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "please show me critcal project",
+      "intent": "GetCriticalProject",
+      "entities": []
+    },
+    {
+      "text": "please show me critical project",
+      "intent": "GetCriticalProject",
+      "entities": []
+    },
+    {
+      "text": "please show me critiical project",
+      "intent": "GetCriticalProject",
+      "entities": []
+    },
+    {
+      "text": "please show me favourite project of mine",
+      "intent": "GetFavouriteProject",
+      "entities": []
+    },
+    {
+      "text": "please show me last project access",
+      "intent": "GetLastProjectAccessUrl",
+      "entities": []
+    },
+    {
+      "text": "please show me my all project",
+      "intent": "ShowProjectListToUser",
+      "entities": []
+    },
+    {
+      "text": "please show me my favourite project",
+      "intent": "GetFavouriteProject",
+      "entities": []
+    },
+    {
+      "text": "please show me my last list of timesheet.",
+      "intent": "GetTimesheetList",
+      "entities": []
+    },
+    {
+      "text": "please show me my last timesheet.",
+      "intent": "GetTimesheetList",
+      "entities": []
+    },
+    {
+      "text": "please show me my notifications",
+      "intent": "GetUserNotification",
+      "entities": []
+    },
+    {
+      "text": "please show me my notifications.",
+      "intent": "GetUserNotification",
+      "entities": []
+    },
+    {
+      "text": "please show me my project",
+      "intent": "ShowProjectListToUser",
+      "entities": []
+    },
+    {
+      "text": "please show me my project request",
+      "intent": "ShowProjectRequestListToUser",
+      "entities": []
+    },
+    {
+      "text": "please show me my recentproject",
+      "intent": "GetRecentProjectOfUser",
+      "entities": []
+    },
+    {
+      "text": "please show me my risk project",
+      "intent": "GetRiskProjectOfUser",
+      "entities": []
+    },
+    {
+      "text": "please show me notification",
+      "intent": "GetUserNotification",
+      "entities": []
+    },
+    {
+      "text": "please show me the delay project",
+      "intent": "GetDelayProjectList",
+      "entities": []
+    },
+    {
+      "text": "please show me the delayed project",
+      "intent": "GetDelayProjectList",
+      "entities": []
+    },
+    {
+      "text": "please show me the homepage",
+      "intent": "GetHomePageUrl",
+      "entities": []
+    },
+    {
+      "text": "please show me the last 3 timesheet",
+      "intent": "GetTimesheetList",
+      "entities": []
+    },
+    {
+      "text": "please show me the last 3 timesheets in draft",
+      "intent": "GetTimesheetList",
+      "entities": []
+    },
+    {
+      "text": "please show me the list of delay project",
+      "intent": "GetDelayProjectList",
+      "entities": []
+    },
+    {
+      "text": "please show me the list of project",
+      "intent": "ShowProjectListToUser",
+      "entities": []
+    },
+    {
+      "text": "please show me the list of recent project",
+      "intent": "GetRecentProjectOfUser",
+      "entities": []
+    },
+    {
+      "text": "please show me the project list",
+      "intent": "ShowProjectListToUser",
+      "entities": []
+    },
+    {
+      "text": "please show me the project which i am assigned",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "please show me the recent project",
+      "intent": "GetRecentProjectOfUser",
+      "entities": []
+    },
+    {
+      "text": "please show me the timesheet",
+      "intent": "GetTimesheetList",
+      "entities": []
+    },
+    {
+      "text": "please show my current object from the context menu.",
+      "intent": "ShowContextMenuItem",
+      "entities": [
+        {
+          "entity": "showvalue",
+          "startPos": 23,
+          "endPos": 28,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "please show my high priority project",
+      "intent": "GetUserPriorityProject",
+      "entities": [
+        {
+          "entity": "priorityval",
+          "startPos": 15,
+          "endPos": 18,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "please show portfolio in the contextmenu",
+      "intent": "ShowContextMenuItem",
+      "entities": [
+        {
+          "entity": "showvalue",
+          "startPos": 12,
+          "endPos": 20,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "please show program in the context menu",
+      "intent": "ShowContextMenuItem",
+      "entities": [
+        {
+          "entity": "showvalue",
+          "startPos": 12,
+          "endPos": 18,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "please show project analyzer in the context menu",
+      "intent": "ShowContextMenuItem",
+      "entities": [
+        {
+          "entity": "showvalue",
+          "startPos": 20,
+          "endPos": 27,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "please show project list in the context menu",
+      "intent": "ShowContextMenuItem",
+      "entities": [
+        {
+          "entity": "showvalue",
+          "startPos": 20,
+          "endPos": 23,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "please show project request in the context menu",
+      "intent": "ShowContextMenuItem",
+      "entities": [
+        {
+          "entity": "showvalue",
+          "startPos": 20,
+          "endPos": 26,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "please show reporting in the context menu",
+      "intent": "ShowContextMenuItem",
+      "entities": [
+        {
+          "entity": "showvalue",
+          "startPos": 12,
+          "endPos": 20,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "please show requests in the context menu",
+      "intent": "ShowContextMenuItem",
+      "entities": [
+        {
+          "entity": "showvalue",
+          "startPos": 12,
+          "endPos": 19,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "please show team space in the context menu",
+      "intent": "ShowContextMenuItem",
+      "entities": [
+        {
+          "entity": "showvalue",
+          "startPos": 12,
+          "endPos": 15,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "please show timetracking in the context menu",
+      "intent": "ShowContextMenuItem",
+      "entities": [
+        {
+          "entity": "showvalue",
+          "startPos": 12,
+          "endPos": 23,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "please show work planner in the context menu",
+      "intent": "ShowContextMenuItem",
+      "entities": [
+        {
+          "entity": "showvalue",
+          "startPos": 12,
+          "endPos": 15,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "please take me back last project access",
+      "intent": "GetLastProjectAccessUrl",
+      "entities": []
+    },
+    {
+      "text": "please take me to homepage",
+      "intent": "GetHomePageUrl",
+      "entities": []
+    },
+    {
+      "text": "please take me to last project access",
+      "intent": "GetLastProjectAccessUrl",
+      "entities": []
+    },
+    {
+      "text": "please take me to project page",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "please take me to the home page",
+      "intent": "GetHomePageUrl",
+      "entities": []
+    },
+    {
+      "text": "please take me to the homepage",
+      "intent": "GetHomePageUrl",
+      "entities": []
+    },
+    {
+      "text": "please tell me about yourself?",
+      "intent": "GetBotName",
+      "entities": []
+    },
+    {
+      "text": "please tell me the activities",
+      "intent": "GetAssignedActivity",
+      "entities": []
+    },
+    {
+      "text": "please tell me the activty for today",
+      "intent": "GetAssignedActivity",
+      "entities": []
+    },
+    {
+      "text": "please tell me your name ?",
+      "intent": "GetBotName",
+      "entities": []
+    },
+    {
+      "text": "plese delete timesheet of this day",
+      "intent": "DeleteTimesheetWithDate",
+      "entities": []
+    },
+    {
+      "text": "project",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "project object current version",
+      "intent": "GetCurrentVersionOfApp",
+      "entities": []
+    },
+    {
+      "text": "reject timesheet for last week of february",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "release the document object",
+      "intent": "ReleaseTeamSpaceObject",
+      "entities": [
+        {
+          "entity": "releaseTeamSpaceObject",
+          "startPos": 12,
+          "endPos": 19,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "release the doucmnet object",
+      "intent": "ReleaseTeamSpaceObject",
+      "entities": [
+        {
+          "entity": "releaseTeamSpaceObject",
+          "startPos": 12,
+          "endPos": 19,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "release the test object",
+      "intent": "ReleaseTeamSpaceObject",
+      "entities": []
+    },
+    {
+      "text": "release timesheeet of today",
+      "intent": "ReleaseTimesheetWithDate",
+      "entities": []
+    },
+    {
+      "text": "release timesheet of 10 december 2020",
+      "intent": "ReleaseTimesheetWithDate",
+      "entities": []
+    },
+    {
+      "text": "release timesheet of 22 february 2020",
+      "intent": "ReleaseTimesheetWithDate",
+      "entities": []
+    },
+    {
+      "text": "release timesheet of 8 dec 2019",
+      "intent": "ReleaseTimesheetWithDate",
+      "entities": []
+    },
+    {
+      "text": "release timesheet of this 17 dec 2019",
+      "intent": "ReleaseTimesheetWithDate",
+      "entities": []
+    },
+    {
+      "text": "release timesheet of this month",
+      "intent": "ReleaseTimesheetWithDate",
+      "entities": []
+    },
+    {
+      "text": "release timesheet of tomorrow",
+      "intent": "ReleaseTimesheetWithDate",
+      "entities": []
+    },
+    {
+      "text": "release timesheet of yesterday",
+      "intent": "ReleaseTimesheetWithDate",
+      "entities": []
+    },
+    {
+      "text": "see you again",
+      "intent": "ByeBye",
+      "entities": []
+    },
+    {
+      "text": "see you later",
+      "intent": "ByeBye",
+      "entities": []
+    },
+    {
+      "text": "show critical project at watch list",
+      "intent": "GetCriticalProject",
+      "entities": [
+        {
+          "entity": "favourite",
+          "startPos": 25,
+          "endPos": 29,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "show critical project at watched list",
+      "intent": "GetCriticalProject",
+      "entities": [
+        {
+          "entity": "favourite",
+          "startPos": 25,
+          "endPos": 31,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "show fav risk project",
+      "intent": "GetRiskProjectOfUser",
+      "entities": [
+        {
+          "entity": "favourite",
+          "startPos": 5,
+          "endPos": 7,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "show favorite at critical state",
+      "intent": "GetCriticalProject",
+      "entities": [
+        {
+          "entity": "favourite",
+          "startPos": 5,
+          "endPos": 12,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "show favorite risk project",
+      "intent": "GetRiskProjectOfUser",
+      "entities": [
+        {
+          "entity": "favourite",
+          "startPos": 5,
+          "endPos": 12,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "show list of risk project at watched list",
+      "intent": "GetRiskProjectOfUser",
+      "entities": [
+        {
+          "entity": "favourite",
+          "startPos": 29,
+          "endPos": 35,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "show me critical project",
+      "intent": "GetCriticalProject",
+      "entities": []
+    },
+    {
+      "text": "show me favourite project of mine",
+      "intent": "GetFavouriteProject",
+      "entities": []
+    },
+    {
+      "text": "show me last timesheeet",
+      "intent": "GetListOfTimesheet",
+      "entities": []
+    },
+    {
+      "text": "show me my critical project",
+      "intent": "GetCriticalProject",
+      "entities": []
+    },
+    {
+      "text": "show me my last project",
+      "intent": "GetLastProjectAccessUrl",
+      "entities": []
+    },
+    {
+      "text": "show me my last timesheet",
+      "intent": "GetListOfTimesheet",
+      "entities": []
+    },
+    {
+      "text": "show me my notification",
+      "intent": "GetUserNotification",
+      "entities": []
+    },
+    {
+      "text": "show me my notifications",
+      "intent": "GetUserNotification",
+      "entities": []
+    },
+    {
+      "text": "show me my project request",
+      "intent": "ShowProjectRequestListToUser",
+      "entities": []
+    },
+    {
+      "text": "show me my project with request",
+      "intent": "ShowProjectRequestListToUser",
+      "entities": []
+    },
+    {
+      "text": "show me project which i am assigned",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "show me risk project",
+      "intent": "GetRiskProjectOfUser",
+      "entities": []
+    },
+    {
+      "text": "show me the activies i am assigned",
+      "intent": "GetAssignedActivity",
+      "entities": []
+    },
+    {
+      "text": "show me the activity",
+      "intent": "GetAssignedActivity",
+      "entities": []
+    },
+    {
+      "text": "show me the delay project",
+      "intent": "GetDelayProjectList",
+      "entities": []
+    },
+    {
+      "text": "show me the homepage",
+      "intent": "GetHomePageUrl",
+      "entities": []
+    },
+    {
+      "text": "show me the last time sheet",
+      "intent": "GetListOfTimesheet",
+      "entities": []
+    },
+    {
+      "text": "show me the list of all projects",
+      "intent": "ShowProjectListToUser",
+      "entities": []
+    },
+    {
+      "text": "show me the list of delay project",
+      "intent": "GetDelayProjectList",
+      "entities": []
+    },
+    {
+      "text": "show me the list of recent project",
+      "intent": "GetRecentProjectOfUser",
+      "entities": []
+    },
+    {
+      "text": "show me the project where schedule is high",
+      "intent": "ProjectCriticalWithKeys",
+      "entities": [
+        {
+          "entity": "healthParam",
+          "startPos": 26,
+          "endPos": 33,
+          "children": []
+        },
+        {
+          "entity": "healthKey",
+          "startPos": 38,
+          "endPos": 41,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "show me the project where schedule is low",
+      "intent": "ProjectCriticalWithKeys",
+      "entities": [
+        {
+          "entity": "healthParam",
+          "startPos": 26,
+          "endPos": 33,
+          "children": []
+        },
+        {
+          "entity": "healthKey",
+          "startPos": 38,
+          "endPos": 40,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "show me the project where schedule is medium",
+      "intent": "ProjectCriticalWithKeys",
+      "entities": [
+        {
+          "entity": "healthParam",
+          "startPos": 26,
+          "endPos": 33,
+          "children": []
+        },
+        {
+          "entity": "healthKey",
+          "startPos": 38,
+          "endPos": 43,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "show me the timesheet",
+      "intent": "GetTimesheetList",
+      "entities": []
+    },
+    {
+      "text": "show me timesheet",
+      "intent": "GetListOfTimesheet",
+      "entities": []
+    },
+    {
+      "text": "show my critcal project",
+      "intent": "GetCriticalProject",
+      "entities": []
+    },
+    {
+      "text": "show my favorite risk project",
+      "intent": "GetRiskProjectOfUser",
+      "entities": [
+        {
+          "entity": "favourite",
+          "startPos": 8,
+          "endPos": 15,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "show my low priority project",
+      "intent": "GetUserPriorityProject",
+      "entities": [
+        {
+          "entity": "priorityval",
+          "startPos": 8,
+          "endPos": 10,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "show my medium proirity project",
+      "intent": "GetUserPriorityProject",
+      "entities": [
+        {
+          "entity": "priorityval",
+          "startPos": 8,
+          "endPos": 13,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "show my project of high priority",
+      "intent": "GetUserPriorityProject",
+      "entities": [
+        {
+          "entity": "priorityval",
+          "startPos": 19,
+          "endPos": 22,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "show my project of low priority",
+      "intent": "GetUserPriorityProject",
+      "entities": [
+        {
+          "entity": "priorityval",
+          "startPos": 19,
+          "endPos": 21,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "show my project requests",
+      "intent": "ShowProjectRequestListToUser",
+      "entities": []
+    },
+    {
+      "text": "show my strategic priority project",
+      "intent": "GetUserPriorityProject",
+      "entities": [
+        {
+          "entity": "priorityval",
+          "startPos": 8,
+          "endPos": 16,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "show notification to me",
+      "intent": "GetUserNotification",
+      "entities": []
+    },
+    {
+      "text": "show project request",
+      "intent": "ShowProjectRequestListToUser",
+      "entities": []
+    },
+    {
+      "text": "show risk project",
+      "intent": "GetRiskProjectOfUser",
+      "entities": []
+    },
+    {
+      "text": "show risk project at watched list",
+      "intent": "GetRiskProjectOfUser",
+      "entities": [
+        {
+          "entity": "favourite",
+          "startPos": 21,
+          "endPos": 27,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "show strategies on the context menu",
+      "intent": "ShowContextMenuItem",
+      "entities": []
+    },
+    {
+      "text": "show the list of critical project",
+      "intent": "GetCriticalProject",
+      "entities": []
+    },
+    {
+      "text": "show the list of critical project at watched list",
+      "intent": "GetCriticalProject",
+      "entities": [
+        {
+          "entity": "favourite",
+          "startPos": 37,
+          "endPos": 43,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "show the list of favorite project at critical",
+      "intent": "GetCriticalProject",
+      "entities": [
+        {
+          "entity": "favourite",
+          "startPos": 17,
+          "endPos": 24,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "show the project at riisk",
+      "intent": "GetRiskProjectOfUser",
+      "entities": []
+    },
+    {
+      "text": "show the project where client satisfaction is low",
+      "intent": "ProjectCriticalWithKeys",
+      "entities": [
+        {
+          "entity": "healthParam",
+          "startPos": 23,
+          "endPos": 41,
+          "children": []
+        },
+        {
+          "entity": "healthKey",
+          "startPos": 46,
+          "endPos": 48,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "show the project where overall is high",
+      "intent": "ProjectCriticalWithKeys",
+      "entities": [
+        {
+          "entity": "healthParam",
+          "startPos": 23,
+          "endPos": 29,
+          "children": []
+        },
+        {
+          "entity": "healthKey",
+          "startPos": 34,
+          "endPos": 37,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "show the project where overall is medium",
+      "intent": "ProjectCriticalWithKeys",
+      "entities": [
+        {
+          "entity": "healthParam",
+          "startPos": 23,
+          "endPos": 29,
+          "children": []
+        },
+        {
+          "entity": "healthKey",
+          "startPos": 34,
+          "endPos": 39,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "show the project where q&a is high",
+      "intent": "ProjectCriticalWithKeys",
+      "entities": [
+        {
+          "entity": "healthParam",
+          "startPos": 23,
+          "endPos": 25,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "show the project where q&a is low",
+      "intent": "ProjectCriticalWithKeys",
+      "entities": [
+        {
+          "entity": "healthParam",
+          "startPos": 23,
+          "endPos": 25,
+          "children": []
+        },
+        {
+          "entity": "healthKey",
+          "startPos": 30,
+          "endPos": 32,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "show the project where schedule is very high",
+      "intent": "ProjectCriticalWithKeys",
+      "entities": [
+        {
+          "entity": "healthParam",
+          "startPos": 23,
+          "endPos": 30,
+          "children": []
+        },
+        {
+          "entity": "healthKey",
+          "startPos": 35,
+          "endPos": 43,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "show the project where the risk is high",
+      "intent": "ProjectCriticalWithKeys",
+      "entities": [
+        {
+          "entity": "healthParam",
+          "startPos": 27,
+          "endPos": 30,
+          "children": []
+        },
+        {
+          "entity": "healthKey",
+          "startPos": 35,
+          "endPos": 38,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "show the project where the risk is low",
+      "intent": "ProjectCriticalWithKeys",
+      "entities": [
+        {
+          "entity": "healthParam",
+          "startPos": 27,
+          "endPos": 30,
+          "children": []
+        },
+        {
+          "entity": "healthKey",
+          "startPos": 35,
+          "endPos": 37,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "show the project where the risk is medium",
+      "intent": "ProjectCriticalWithKeys",
+      "entities": [
+        {
+          "entity": "healthParam",
+          "startPos": 27,
+          "endPos": 30,
+          "children": []
+        },
+        {
+          "entity": "healthKey",
+          "startPos": 35,
+          "endPos": 40,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "show the project where the risk is very high",
+      "intent": "ProjectCriticalWithKeys",
+      "entities": [
+        {
+          "entity": "healthParam",
+          "startPos": 27,
+          "endPos": 30,
+          "children": []
+        },
+        {
+          "entity": "healthParam",
+          "startPos": 35,
+          "endPos": 43,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "show the project where the team management is high",
+      "intent": "ProjectCriticalWithKeys",
+      "entities": [
+        {
+          "entity": "healthParam",
+          "startPos": 27,
+          "endPos": 41,
+          "children": []
+        },
+        {
+          "entity": "healthKey",
+          "startPos": 46,
+          "endPos": 49,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "show the project where the team management is low",
+      "intent": "ProjectCriticalWithKeys",
+      "entities": [
+        {
+          "entity": "healthParam",
+          "startPos": 27,
+          "endPos": 41,
+          "children": []
+        },
+        {
+          "entity": "healthKey",
+          "startPos": 46,
+          "endPos": 48,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "show the project where the team management is very high",
+      "intent": "ProjectCriticalWithKeys",
+      "entities": [
+        {
+          "entity": "healthParam",
+          "startPos": 27,
+          "endPos": 41,
+          "children": []
+        },
+        {
+          "entity": "healthKey",
+          "startPos": 46,
+          "endPos": 54,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "show the project where the team management is very medium",
+      "intent": "ProjectCriticalWithKeys",
+      "entities": [
+        {
+          "entity": "healthParam",
+          "startPos": 27,
+          "endPos": 41,
+          "children": []
+        },
+        {
+          "entity": "healthKey",
+          "startPos": 51,
+          "endPos": 56,
+          "children": []
+        }
+      ]
+    },
+    {
+      "text": "show the risk project",
+      "intent": "GetRiskProjectOfUser",
+      "entities": []
+    },
+    {
+      "text": "shut down",
+      "intent": "ByeBye",
+      "entities": []
+    },
+    {
+      "text": "tell me about yourself",
+      "intent": "GetBotName",
+      "entities": []
+    },
+    {
+      "text": "tell me about yourself?",
+      "intent": "GetBotName",
+      "entities": []
+    },
+    {
+      "text": "tell me the activity\\",
+      "intent": "GetAssignedActivity",
+      "entities": []
+    },
+    {
+      "text": "tell me the version of project object",
+      "intent": "GetCurrentVersionOfApp",
+      "entities": []
+    },
+    {
+      "text": "thank you",
+      "intent": "GreetingResponse",
+      "entities": []
+    },
+    {
+      "text": "thank you for your help",
+      "intent": "GreetingResponse",
+      "entities": []
+    },
+    {
+      "text": "thank you very much",
+      "intent": "GreetingResponse",
+      "entities": []
+    },
+    {
+      "text": "thankyou",
+      "intent": "GreetingResponse",
+      "entities": []
+    },
+    {
+      "text": "timesheet create of me of this month",
+      "intent": "CreateTimesheetWithDate",
+      "entities": []
+    },
+    {
+      "text": "timesheet for 10 november 2019",
+      "intent": "CreateTimesheetWithDate",
+      "entities": []
+    },
+    {
+      "text": "version of project object for me",
+      "intent": "GetCurrentVersionOfApp",
+      "entities": []
+    },
+    {
+      "text": "what are my favourite project of mine",
+      "intent": "GetFavouriteProject",
+      "entities": []
+    },
+    {
+      "text": "what are my last timesheet",
+      "intent": "GetListOfTimesheet",
+      "entities": []
+    },
+    {
+      "text": "what are my notification",
+      "intent": "GetUserNotification",
+      "entities": []
+    },
+    {
+      "text": "what are my risk project",
+      "intent": "GetRiskProjectOfUser",
+      "entities": []
+    },
+    {
+      "text": "what are you?",
+      "intent": "GetBotName",
+      "entities": []
+    },
+    {
+      "text": "what can you do ?",
+      "intent": "GetUserHelp",
+      "entities": []
+    },
+    {
+      "text": "what can you do for me",
+      "intent": "GetUserHelp",
+      "entities": []
+    },
+    {
+      "text": "what do you do ?",
+      "intent": "GetBotName",
+      "entities": []
+    },
+    {
+      "text": "what is object",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "what is the date",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "what is the today's date",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "what is your motive",
+      "intent": "GetBotName",
+      "entities": []
+    },
+    {
+      "text": "what is your motive?",
+      "intent": "GetBotName",
+      "entities": []
+    },
+    {
+      "text": "what is your name ?",
+      "intent": "GetBotName",
+      "entities": []
+    },
+    {
+      "text": "what is your name?",
+      "intent": "GetBotName",
+      "entities": []
+    },
+    {
+      "text": "what is your purpose",
+      "intent": "GetBotName",
+      "entities": []
+    },
+    {
+      "text": "what is your work?",
+      "intent": "GetUserHelp",
+      "entities": []
+    },
+    {
+      "text": "what object",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "what people called you?",
+      "intent": "GetBotName",
+      "entities": []
+    },
+    {
+      "text": "what project",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "what should we do today",
+      "intent": "GetUserHelp",
+      "entities": []
+    },
+    {
+      "text": "what you like to be called?",
+      "intent": "GetBotName",
+      "entities": []
+    },
+    {
+      "text": "what’s new?",
+      "intent": "QuestionGeneralResponse",
+      "entities": []
+    },
+    {
+      "text": "whatsapp",
+      "intent": "GreetingIntent",
+      "entities": []
+    },
+    {
+      "text": "where is my last project\\",
+      "intent": "GetLastProjectAccessUrl",
+      "entities": []
+    },
+    {
+      "text": "which activity i am assigned today",
+      "intent": "GetAssignedActivity",
+      "entities": []
+    },
+    {
+      "text": "which version of po is i am using?",
+      "intent": "GetCurrentVersionOfApp",
+      "entities": []
+    },
+    {
+      "text": "which version of project object is i am using",
+      "intent": "GetCurrentVersionOfApp",
+      "entities": []
+    },
+    {
+      "text": "who are you",
+      "intent": "GetBotName",
+      "entities": []
+    },
+    {
+      "text": "who are you ?",
+      "intent": "GetBotName",
+      "entities": []
+    },
+    {
+      "text": "will you create a timesheet for 2 nov 2020",
+      "intent": "CreateTimesheetWithDate",
+      "entities": []
+    },
+    {
+      "text": "wooh",
+      "intent": "GreetingIntent",
+      "entities": []
+    },
+    {
+      "text": "you are wonderful",
+      "intent": "GreetingResponse",
+      "entities": []
+    },
+    {
+      "text": "you create timesheet for 26 of this month",
+      "intent": "CreateTimesheetWithDate",
+      "entities": []
+    },
+    {
+      "text": "you get out of my face",
+      "intent": "ByeBye",
+      "entities": []
+    },
+    {
+      "text": "you help me",
+      "intent": "GreetingResponse",
+      "entities": []
+    },
+    {
+      "text": "your name please?",
+      "intent": "GetBotName",
+      "entities": []
+    }
+  ],
+  "versionId": "0.1",
+  "name": "PorusPhase5",
+  "desc": "",
+  "culture": "en-us",
+  "tokenizerVersion": "1.0.0",
+  "patternAnyEntities": [],
+  "regex_entities": [],
+  "phraselists": [],
+  "regex_features": [],
+  "patterns": [
+    {
+      "pattern": "show the project where the {healthParam} is {healthKey}",
+      "intent": "ProjectCriticalWithKeys"
+    }
+  ],
+  "settings": []
+}

@@ -1,0 +1,426 @@
+E:\Bot Teams Tab\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.csprojAssemblyReference.cache
+E:\Bot Teams Tab\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.Resources.FrenchLanguage.resources
+E:\Bot Teams Tab\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.Resources.GermanLanguage.resources
+E:\Bot Teams Tab\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.Resources.ItalianLanguage.resources
+E:\Bot Teams Tab\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.Resources.PortugeseLanguage.resources
+E:\Bot Teams Tab\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.Resources.SpanishLanguage.resources
+E:\Bot Teams Tab\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.csproj.GenerateResource.cache
+E:\Bot Teams Tab\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.AssemblyInfoInputs.cache
+E:\Bot Teams Tab\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.AssemblyInfo.cs
+E:\Bot Teams Tab\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.RazorAssemblyInfo.cache
+E:\Bot Teams Tab\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.RazorAssemblyInfo.cs
+E:\Bot Teams Tab\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\appsettings.Development.json
+E:\Bot Teams Tab\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\CognitiveServiceModel\PorusPhase5.json
+E:\Bot Teams Tab\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\DeploymentTemplates\new-rg-parameters.json
+E:\Bot Teams Tab\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\DeploymentTemplates\preexisting-rg-parameters.json
+E:\Bot Teams Tab\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\DeploymentTemplates\template-with-new-rg.json
+E:\Bot Teams Tab\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\DeploymentTemplates\template-with-preexisting-rg.json
+E:\Bot Teams Tab\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Properties\launchSettings.json
+E:\Bot Teams Tab\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\PorusTeamOrientedBot.exe
+E:\Bot Teams Tab\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\appsettings.json
+E:\Bot Teams Tab\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\PorusTeamOrientedBot.deps.json
+E:\Bot Teams Tab\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\PorusTeamOrientedBot.runtimeconfig.json
+E:\Bot Teams Tab\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\PorusTeamOrientedBot.runtimeconfig.dev.json
+E:\Bot Teams Tab\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\PorusTeamOrientedBot.dll
+E:\Bot Teams Tab\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\PorusTeamOrientedBot.pdb
+E:\Bot Teams Tab\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\PorusTeamOrientedBot.Views.dll
+E:\Bot Teams Tab\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\PorusTeamOrientedBot.Views.pdb
+E:\Bot Teams Tab\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\Bot Teams Tab\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\Bot Teams Tab\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Bot.Builder.dll
+E:\Bot Teams Tab\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Bot.Builder.AI.Luis.dll
+E:\Bot Teams Tab\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Bot.Builder.Dialogs.dll
+E:\Bot Teams Tab\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Bot.Builder.Integration.AspNet.Core.dll
+E:\Bot Teams Tab\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Bot.Configuration.dll
+E:\Bot Teams Tab\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Bot.Connector.dll
+E:\Bot Teams Tab\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Bot.Schema.dll
+E:\Bot Teams Tab\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Bot.Streaming.dll
+E:\Bot Teams Tab\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+E:\Bot Teams Tab\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Bot Teams Tab\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Bot Teams Tab\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Bot Teams Tab\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Bot Teams Tab\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Bot Teams Tab\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Recognizers.Definitions.dll
+E:\Bot Teams Tab\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Recognizers.Text.dll
+E:\Bot Teams Tab\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Recognizers.Text.Choice.dll
+E:\Bot Teams Tab\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Recognizers.Text.DataTypes.TimexExpression.dll
+E:\Bot Teams Tab\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Recognizers.Text.DateTime.dll
+E:\Bot Teams Tab\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Recognizers.Text.Number.dll
+E:\Bot Teams Tab\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Recognizers.Text.NumberWithUnit.dll
+E:\Bot Teams Tab\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+E:\Bot Teams Tab\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Rest.ClientRuntime.Azure.dll
+E:\Bot Teams Tab\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Bot Teams Tab\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\Bot Teams Tab\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\RestSharp.dll
+E:\Bot Teams Tab\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Bot Teams Tab\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.TagHelpers.input.cache
+E:\Bot Teams Tab\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.TagHelpers.output.cache
+E:\Bot Teams Tab\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.RazorCoreGenerate.cache
+E:\Bot Teams Tab\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\Razor\Pages\CustomForm.cshtml.g.cs
+E:\Bot Teams Tab\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\Razor\Pages\Home.cshtml.g.cs
+E:\Bot Teams Tab\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\Razor\Pages\Shared\_EmbedPage.cshtml.g.cs
+E:\Bot Teams Tab\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+E:\Bot Teams Tab\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+E:\Bot Teams Tab\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.RazorTargetAssemblyInfo.cache
+E:\Bot Teams Tab\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.RazorTargetAssemblyInfo.cs
+E:\Bot Teams Tab\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.Views.pdb
+E:\Bot Teams Tab\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.csproj.CopyComplete
+E:\Bot Teams Tab\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\staticwebassets\PorusTeamOrientedBot.StaticWebAssets.Manifest.cache
+E:\Bot Teams Tab\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\staticwebassets\PorusTeamOrientedBot.StaticWebAssets.xml
+E:\Bot Teams Tab\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.dll
+E:\Bot Teams Tab\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.pdb
+E:\Bot Teams Tab\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.genruntimeconfig.cache
+E:\Bot Teams Tab\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Azure.CognitiveServices.Language.LUIS.dll
+E:\Bot Teams Tab\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\CognitiveServiceModel\NestlPOC.json
+E:\Bot Teams Tab\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Bot.Connector.Teams.dll
+E:\Bot Teams Tab\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.csproj.CoreCompileInputs.cache
+E:\Bot Teams Tab\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.MvcApplicationPartsAssemblyInfo.cs
+E:\Bot Teams Tab\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.MvcApplicationPartsAssemblyInfo.cache
+E:\Bot Teams Tab\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Azure.Cosmos.Client.dll
+E:\Bot Teams Tab\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Azure.Cosmos.Core.dll
+E:\Bot Teams Tab\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Azure.Cosmos.Direct.dll
+E:\Bot Teams Tab\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+E:\Bot Teams Tab\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Azure.DocumentDB.Core.dll
+E:\Bot Teams Tab\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Azure.KeyVault.Core.dll
+E:\Bot Teams Tab\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Azure.Storage.Blob.dll
+E:\Bot Teams Tab\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Azure.Storage.Common.dll
+E:\Bot Teams Tab\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Bot.Builder.Azure.dll
+E:\Bot Teams Tab\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Bot Teams Tab\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Bot Teams Tab\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Bot Teams Tab\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Bot Teams Tab\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Bot Teams Tab\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\System.ServiceModel.Primitives.dll
+E:\Bot Teams Tab\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\System.ServiceModel.dll
+E:\Bot Teams Tab\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\runtimes\win-x64\native\Cosmos.CRTCompat.dll
+E:\Bot Teams Tab\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Azure.Cosmos.ServiceInterop.dll
+E:\Bot Teams Tab\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\runtimes\win7-x64\native\DocumentDB.Spatial.Sql.dll
+E:\Bot Teams Tab\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\runtimes\win7-x64\native\Microsoft.Azure.Documents.ServiceInterop.dll
+E:\Bot Teams Tab\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+E:\Bot Teams Tab\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+E:\Bot Teams Tab\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Bot Teams Tab\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\AdaptiveCards.Templating.dll
+E:\Bot Teams Tab\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\AdaptiveExpressions.dll
+E:\Bot Teams Tab\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Antlr4.Runtime.dll
+E:\Bot Teams Tab\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\HtmlAgilityPack.dll
+E:\Bot Teams Tab\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Cards\LanguageCard\ItalianCard.json
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\appsettings.Development.json
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Cards\LanguageCard\ItalianCard.json
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\CognitiveServiceModel\NestlPOC.json
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\CognitiveServiceModel\PorusPhase5.json
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\DeploymentTemplates\new-rg-parameters.json
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\DeploymentTemplates\preexisting-rg-parameters.json
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\DeploymentTemplates\template-with-new-rg.json
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\DeploymentTemplates\template-with-preexisting-rg.json
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Properties\launchSettings.json
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\PorusTeamOrientedBot.exe
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\appsettings.json
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\PorusTeamOrientedBot.deps.json
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\PorusTeamOrientedBot.runtimeconfig.json
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\PorusTeamOrientedBot.runtimeconfig.dev.json
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\PorusTeamOrientedBot.dll
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\PorusTeamOrientedBot.pdb
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\PorusTeamOrientedBot.Views.dll
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\PorusTeamOrientedBot.Views.pdb
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\AdaptiveCards.Templating.dll
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\AdaptiveExpressions.dll
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Antlr4.Runtime.dll
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\HtmlAgilityPack.dll
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Azure.CognitiveServices.Language.LUIS.dll
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Azure.Cosmos.Client.dll
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Azure.Cosmos.Core.dll
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Azure.Cosmos.Direct.dll
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Azure.DocumentDB.Core.dll
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Azure.KeyVault.Core.dll
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Azure.Storage.Blob.dll
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Azure.Storage.Common.dll
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Bot.Builder.dll
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Bot.Builder.AI.Luis.dll
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Bot.Builder.Azure.dll
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Bot.Builder.Dialogs.dll
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Bot.Builder.Integration.AspNet.Core.dll
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Bot.Configuration.dll
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Bot.Connector.dll
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Bot.Connector.Teams.dll
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Bot.Schema.dll
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Bot.Streaming.dll
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Recognizers.Definitions.dll
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Recognizers.Text.dll
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Recognizers.Text.Choice.dll
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Recognizers.Text.DataTypes.TimexExpression.dll
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Recognizers.Text.DateTime.dll
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Recognizers.Text.Number.dll
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Recognizers.Text.NumberWithUnit.dll
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Rest.ClientRuntime.Azure.dll
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\RestSharp.dll
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\System.ServiceModel.Primitives.dll
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\System.ServiceModel.dll
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\runtimes\win-x64\native\Cosmos.CRTCompat.dll
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Azure.Cosmos.ServiceInterop.dll
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\runtimes\win7-x64\native\DocumentDB.Spatial.Sql.dll
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\runtimes\win7-x64\native\Microsoft.Azure.Documents.ServiceInterop.dll
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.csprojAssemblyReference.cache
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.Resources.FrenchLanguage.resources
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.Resources.GermanLanguage.resources
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.Resources.ItalianLanguage.resources
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.Resources.PortugeseLanguage.resources
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.Resources.SpanishLanguage.resources
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.csproj.GenerateResource.cache
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.AssemblyInfoInputs.cache
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.AssemblyInfo.cs
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.csproj.CoreCompileInputs.cache
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.MvcApplicationPartsAssemblyInfo.cs
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.MvcApplicationPartsAssemblyInfo.cache
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.RazorAssemblyInfo.cache
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.RazorAssemblyInfo.cs
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.TagHelpers.input.cache
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.TagHelpers.output.cache
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.RazorCoreGenerate.cache
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\Razor\Pages\CustomForm.cshtml.g.cs
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\Razor\Pages\Home.cshtml.g.cs
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\Razor\Pages\Shared\_EmbedPage.cshtml.g.cs
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.RazorTargetAssemblyInfo.cache
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.RazorTargetAssemblyInfo.cs
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.Views.pdb
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.csproj.CopyComplete
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\staticwebassets\PorusTeamOrientedBot.StaticWebAssets.Manifest.cache
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\staticwebassets\PorusTeamOrientedBot.StaticWebAssets.xml
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.dll
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.pdb
+E:\ChatBotPhase 2 development\Working Directory\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.genruntimeconfig.cache
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\appsettings.Development.json
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\CognitiveServiceModel\NestlPOC.json
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\CognitiveServiceModel\PorusPhase5.json
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\DeploymentTemplates\new-rg-parameters.json
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\DeploymentTemplates\preexisting-rg-parameters.json
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\DeploymentTemplates\template-with-new-rg.json
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\DeploymentTemplates\template-with-preexisting-rg.json
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Properties\launchSettings.json
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\PorusTeamOrientedBot.exe
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\appsettings.json
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\PorusTeamOrientedBot.deps.json
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\PorusTeamOrientedBot.runtimeconfig.json
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\PorusTeamOrientedBot.runtimeconfig.dev.json
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\PorusTeamOrientedBot.dll
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\PorusTeamOrientedBot.pdb
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\PorusTeamOrientedBot.Views.dll
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\PorusTeamOrientedBot.Views.pdb
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\AdaptiveCards.Templating.dll
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\AdaptiveExpressions.dll
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Antlr4.Runtime.dll
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\HtmlAgilityPack.dll
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Azure.CognitiveServices.Language.LUIS.dll
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Azure.Cosmos.Client.dll
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Azure.Cosmos.Core.dll
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Azure.Cosmos.Direct.dll
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Azure.DocumentDB.Core.dll
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Azure.KeyVault.Core.dll
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Azure.Storage.Blob.dll
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Azure.Storage.Common.dll
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Bot.Builder.dll
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Bot.Builder.AI.Luis.dll
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Bot.Builder.Azure.dll
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Bot.Builder.Dialogs.dll
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Bot.Builder.Integration.AspNet.Core.dll
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Bot.Configuration.dll
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Bot.Connector.dll
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Bot.Connector.Teams.dll
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Bot.Schema.dll
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Bot.Streaming.dll
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Recognizers.Definitions.dll
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Recognizers.Text.dll
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Recognizers.Text.Choice.dll
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Recognizers.Text.DataTypes.TimexExpression.dll
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Recognizers.Text.DateTime.dll
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Recognizers.Text.Number.dll
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Recognizers.Text.NumberWithUnit.dll
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Rest.ClientRuntime.Azure.dll
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\RestSharp.dll
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\System.ServiceModel.Primitives.dll
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\System.ServiceModel.dll
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\runtimes\win-x64\native\Cosmos.CRTCompat.dll
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Azure.Cosmos.ServiceInterop.dll
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\runtimes\win7-x64\native\DocumentDB.Spatial.Sql.dll
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\runtimes\win7-x64\native\Microsoft.Azure.Documents.ServiceInterop.dll
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.csprojAssemblyReference.cache
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.Resources.FrenchLanguage.resources
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.Resources.GermanLanguage.resources
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.Resources.ItalianLanguage.resources
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.Resources.PortugeseLanguage.resources
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.Resources.SpanishLanguage.resources
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.csproj.GenerateResource.cache
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.AssemblyInfoInputs.cache
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.AssemblyInfo.cs
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.csproj.CoreCompileInputs.cache
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.MvcApplicationPartsAssemblyInfo.cs
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.MvcApplicationPartsAssemblyInfo.cache
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.RazorAssemblyInfo.cache
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.RazorAssemblyInfo.cs
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.TagHelpers.input.cache
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.TagHelpers.output.cache
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.RazorCoreGenerate.cache
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\Razor\Pages\CustomForm.cshtml.g.cs
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\Razor\Pages\Home.cshtml.g.cs
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\Razor\Pages\Shared\_EmbedPage.cshtml.g.cs
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.RazorTargetAssemblyInfo.cache
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.RazorTargetAssemblyInfo.cs
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.Views.pdb
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.csproj.CopyComplete
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\staticwebassets\PorusTeamOrientedBot.StaticWebAssets.Manifest.cache
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\staticwebassets\PorusTeamOrientedBot.StaticWebAssets.xml
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.dll
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.pdb
+E:\ChatBotPhase 2 development\New Working Directory\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.genruntimeconfig.cache
+E:\PO Assistant\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\appsettings.Development.json
+E:\PO Assistant\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\CognitiveServiceModel\NestlPOC.json
+E:\PO Assistant\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\CognitiveServiceModel\PorusPhase5.json
+E:\PO Assistant\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\DeploymentTemplates\new-rg-parameters.json
+E:\PO Assistant\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\DeploymentTemplates\preexisting-rg-parameters.json
+E:\PO Assistant\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\DeploymentTemplates\template-with-new-rg.json
+E:\PO Assistant\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\DeploymentTemplates\template-with-preexisting-rg.json
+E:\PO Assistant\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Properties\launchSettings.json
+E:\PO Assistant\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\PorusTeamOrientedBot.exe
+E:\PO Assistant\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\appsettings.json
+E:\PO Assistant\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\PorusTeamOrientedBot.deps.json
+E:\PO Assistant\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\PorusTeamOrientedBot.runtimeconfig.json
+E:\PO Assistant\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\PorusTeamOrientedBot.runtimeconfig.dev.json
+E:\PO Assistant\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\PorusTeamOrientedBot.dll
+E:\PO Assistant\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\PorusTeamOrientedBot.pdb
+E:\PO Assistant\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\PorusTeamOrientedBot.Views.dll
+E:\PO Assistant\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\PorusTeamOrientedBot.Views.pdb
+E:\PO Assistant\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\AdaptiveCards.Templating.dll
+E:\PO Assistant\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\AdaptiveExpressions.dll
+E:\PO Assistant\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Antlr4.Runtime.dll
+E:\PO Assistant\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\HtmlAgilityPack.dll
+E:\PO Assistant\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\PO Assistant\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\PO Assistant\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Azure.CognitiveServices.Language.LUIS.dll
+E:\PO Assistant\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Azure.Cosmos.Client.dll
+E:\PO Assistant\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Azure.Cosmos.Core.dll
+E:\PO Assistant\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Azure.Cosmos.Direct.dll
+E:\PO Assistant\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+E:\PO Assistant\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Azure.DocumentDB.Core.dll
+E:\PO Assistant\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Azure.KeyVault.Core.dll
+E:\PO Assistant\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Azure.Storage.Blob.dll
+E:\PO Assistant\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Azure.Storage.Common.dll
+E:\PO Assistant\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Bot.Builder.dll
+E:\PO Assistant\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Bot.Builder.AI.Luis.dll
+E:\PO Assistant\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Bot.Builder.Azure.dll
+E:\PO Assistant\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Bot.Builder.Dialogs.dll
+E:\PO Assistant\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Bot.Builder.Integration.AspNet.Core.dll
+E:\PO Assistant\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Bot.Configuration.dll
+E:\PO Assistant\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Bot.Connector.dll
+E:\PO Assistant\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Bot.Connector.Teams.dll
+E:\PO Assistant\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Bot.Schema.dll
+E:\PO Assistant\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Bot.Streaming.dll
+E:\PO Assistant\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\PO Assistant\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\PO Assistant\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\PO Assistant\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+E:\PO Assistant\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\PO Assistant\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\PO Assistant\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\PO Assistant\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\PO Assistant\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\PO Assistant\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Recognizers.Definitions.dll
+E:\PO Assistant\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Recognizers.Text.dll
+E:\PO Assistant\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Recognizers.Text.Choice.dll
+E:\PO Assistant\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Recognizers.Text.DataTypes.TimexExpression.dll
+E:\PO Assistant\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Recognizers.Text.DateTime.dll
+E:\PO Assistant\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Recognizers.Text.Number.dll
+E:\PO Assistant\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Recognizers.Text.NumberWithUnit.dll
+E:\PO Assistant\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+E:\PO Assistant\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Microsoft.Rest.ClientRuntime.Azure.dll
+E:\PO Assistant\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+E:\PO Assistant\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\PO Assistant\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\RestSharp.dll
+E:\PO Assistant\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\PO Assistant\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\PO Assistant\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\PO Assistant\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\System.ServiceModel.Primitives.dll
+E:\PO Assistant\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\System.ServiceModel.dll
+E:\PO Assistant\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\runtimes\win-x64\native\Cosmos.CRTCompat.dll
+E:\PO Assistant\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Azure.Cosmos.ServiceInterop.dll
+E:\PO Assistant\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\runtimes\win7-x64\native\DocumentDB.Spatial.Sql.dll
+E:\PO Assistant\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\runtimes\win7-x64\native\Microsoft.Azure.Documents.ServiceInterop.dll
+E:\PO Assistant\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+E:\PO Assistant\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+E:\PO Assistant\PorusTeamOrientedBot\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\PO Assistant\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.csprojAssemblyReference.cache
+E:\PO Assistant\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.Resources.FrenchLanguage.resources
+E:\PO Assistant\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.Resources.GermanLanguage.resources
+E:\PO Assistant\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.Resources.ItalianLanguage.resources
+E:\PO Assistant\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.Resources.PortugeseLanguage.resources
+E:\PO Assistant\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.Resources.SpanishLanguage.resources
+E:\PO Assistant\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.csproj.GenerateResource.cache
+E:\PO Assistant\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.AssemblyInfoInputs.cache
+E:\PO Assistant\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.AssemblyInfo.cs
+E:\PO Assistant\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.csproj.CoreCompileInputs.cache
+E:\PO Assistant\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.MvcApplicationPartsAssemblyInfo.cs
+E:\PO Assistant\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.MvcApplicationPartsAssemblyInfo.cache
+E:\PO Assistant\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.RazorAssemblyInfo.cache
+E:\PO Assistant\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.RazorAssemblyInfo.cs
+E:\PO Assistant\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.TagHelpers.input.cache
+E:\PO Assistant\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.TagHelpers.output.cache
+E:\PO Assistant\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.RazorCoreGenerate.cache
+E:\PO Assistant\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\Razor\Pages\CustomForm.cshtml.g.cs
+E:\PO Assistant\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\Razor\Pages\Home.cshtml.g.cs
+E:\PO Assistant\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\Razor\Pages\Shared\_EmbedPage.cshtml.g.cs
+E:\PO Assistant\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+E:\PO Assistant\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+E:\PO Assistant\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.RazorTargetAssemblyInfo.cache
+E:\PO Assistant\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.RazorTargetAssemblyInfo.cs
+E:\PO Assistant\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.Views.pdb
+E:\PO Assistant\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.csproj.CopyComplete
+E:\PO Assistant\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\staticwebassets\PorusTeamOrientedBot.StaticWebAssets.Manifest.cache
+E:\PO Assistant\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\staticwebassets\PorusTeamOrientedBot.StaticWebAssets.xml
+E:\PO Assistant\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.dll
+E:\PO Assistant\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.pdb
+E:\PO Assistant\PorusTeamOrientedBot\obj\Release\netcoreapp3.1\PorusTeamOrientedBot.genruntimeconfig.cache
